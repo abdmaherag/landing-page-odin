@@ -117,3 +117,33 @@ h1{
     display: flex;
     align-self: flex-end;
 }
+/* CTA Styling */
+.cta-btn{
+    border: 2px solid white;
+    padding: 6px 28px;
+
+
+}
+.cta{
+    display: flex;
+    margin: auto;
+    margin-top: 80px;
+    background-color: #E77EFC;
+    border-radius: 10px;
+    margin-bottom: 80px;
+}
+.cta-cont{
+    display: flex;
+    padding: 40px 90px;
+    gap: 90px;
+}
+.cta-text{
+    font-weight: 900;
+}
+footer div{
+    height: 100px;
+    background-color: #31187B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
