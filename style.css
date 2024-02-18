@@ -27,5 +27,34 @@ ul{
 img.logo{
     width: 50px;
 }
-
-
+/* HERO STYLING */
+.title{
+    font-size: 45px;
+    width: 50%;
+    font-weight: 900;
+}
+.sub-title{
+    width: 50%;
+    font-size: 18px;
+    margin-bottom: 9px;
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 60px;
+    gap: 20px;
+}
+.hero-img{
+    width: 500px;
+}
+button{
+    padding: 6px 12px;
+    background-color: #E77EFC;
+    border: none;
+    border-radius: 8px;
+}
+.btn{
+    display: flex;
+    justify-content: flex-start;
+}
